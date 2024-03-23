@@ -81,7 +81,7 @@ section{
 .option-btn,
 .delete-btn{
     display: block;
-    width: 100%;
+    
 }
 .inline-btn,
 .inline-option-btn,
@@ -220,4 +220,4 @@ section{
     width:30rem;
     background-color: var(--white);
     border-right: var(--border);
-    z
+}
